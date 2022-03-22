@@ -1,2 +1,2 @@
-# vcreate-npm
-快速创建npm包开发环境（typescript）
+# npm-temp
+npm包开发环境（typescript）模板
